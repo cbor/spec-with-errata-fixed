@@ -1,6 +1,6 @@
-
-
-
+This is a copy of RFC 7049 with the known errata, 3764 and 3770,
+corrected (two errors in examples in the text).  Please use the
+original RFC at http://tools.ietf.org/html/rfc7049 when citing.
 
 
 
